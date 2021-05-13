@@ -1,11 +1,13 @@
+# Repositório: Projeto Final da Imersão Dados 3 - Alura
 
-# Buscando melhorias em expeirmentos de descoberta de Drogas com Data Science
+O Evento Imersão Dados é um evento gratuito, focado em Ciência de Dados que está em sua terceira edição, realizado pela Alura, plataforma de cursos online voltados para Tecnologia. Esta edição foi realizada do dia 07/05/2021 ao 10/05/2021, com aulas diárias e desafios práticos com o intuito de demonstrar todas as etapas de um projeto real de Ciência de Dados, indo da coleta dos dados até a aplicação de um Modelo de Machine Learning, dando a base necessária para o participante concluir um Projeto final em Data Science sobre o assunto proposto.
+
+
+## Projeto: Buscando melhorias em experimentos de Descoberta de Drogas com Data Science
 
 ![titulo](https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2020/04/nota-o-que-c3a9-teste-in-vitro.jpg)
 
-**Olá Cientistas!**
 
-Neste repositório você vai encontrar todas as informações necessárias para o desenvolvimento do projeto final da Imersão Dados.
 
 O nosso objetivo é que você construa um projeto de Data Science com análise exploratória e desenvolva um modelo de machine learning para auxiliar na descoberta de novos medicamentos, aplicando todo o conhecimento que você irá adquirir na imersão e criando um projeto incrível no github, deixando-o com a sua cara. 
 
