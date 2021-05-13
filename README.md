@@ -1,5 +1,7 @@
 
-# Desafio Final Imersão Dados
+# Buscando melhorias em expeirmentos de descoberta de Drogas com Data Science
+
+![titulo](https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2020/04/nota-o-que-c3a9-teste-in-vitro.jpg)
 
 **Olá Cientistas!**
 
