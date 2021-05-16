@@ -10,7 +10,7 @@ O Evento Imersão Dados é um evento gratuito, focado em Ciência de Dados que e
 
 #### Este projeto foi proposto baseado em uma competição organizada pelo [Kaggle](https://www.kaggle.com/c/lish-moa/overview/description), de um projeto do Broad Institute of MIT e Harvard, do Laboratory for Innovation Science em Harvard (LISH) e Biblioteca de Fundos Comuns do NIH de assinaturas celulares integradas em rede (LINCS), que tem o objetivo de avanço no desenvolvimento de medicamentos por meio de melhorias nos algoritmos de previsão do MoA ( Mecanismos de Ação ) que descrevem a atividade biológica de uma determinada molécula. 
 
-### Um pouco sobre o assunto
+### Um pouco sobre Drug Discovery ( Assunto Proposto )
 
 **Como nasce um medicamento**
 
