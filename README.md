@@ -26,7 +26,7 @@ Fatores que podem dar início à criação de medicamentos:
 
 ### Escopo do Projeto
 
-Vamos buscar melhorar a previsão do MoA de um composto com base em sua assinatura celular, colaborando com o avanço na descorberta dos medicamentos.
+Este projeto tenta melhorar a previsão do MoA( Mecanismos de Ação ), que descrevem a atividade biológica de uma determinada molécula com base em sua assinatura celular, colaborando com o avanço e celeridade na descorberta de medicamentos. Em outras palavras tentaremos utilizar um algorítimo para dizer se em um experimento o MoA será ativado ou não, forncecendo ao nosso Modelo Preditivo(Algoritmo) a assinatura do exprimento(Oa dados de teste do experimento).
 
 Utilizaremos 2 Datasets fornecidos pela Alura, que estão na pasta chamada Dados. Um dataset contém informações sobre os experimentos e o outro com os resultados do MoA.
 
@@ -52,26 +52,14 @@ Dataset _**dados_resultados.csv :**_
 
 ### Estrutura do projeto
 
-É necessário que seu estudo seja bem organizado e estruturado, apresentando uma sequência lógica da análise. 
+O projeto será divido em :
 
-O projeto precisa expressar e justificar qual a linha de raciocínio foi criada e seguida durante o processo de elaboração. 
+* Entendimento do Projeto
+* Coleta e Tratamento dos dados
+* Análise Exploratória
+* Modelos de Machine Learning
+* Comunicação dos Resultados
 
-
-### Storytelling e conclusões
-
-Parte da entrega de um estudo é mostrar para a comunidade qual o valor do seu projeto, dessa forma, contextualizar e aproximar o(a) interlocutor(a) é vital. 
-
-É imprescindível que você pense que seu(sua) interlocutor(a), muitas vezes, não sabe do que o estudo trata e/ou não tem familiaridade com tecnologia e programação. Por isso, o notebook precisa ser explicativo de forma que a informação seja acessível para seu público alvo.
-
-As conclusões parciais e a conclusão final são ótimos momentos para que a informação que você extraiu dos dados seja facilmente entregue ao(à) leitor(a). Ademais, você pode adicionar na conclusão as limitações do seu projeto, bem como as ideias para projetos futuros.   
-
-### Pesquisas externas e cruzamento de dados
-
-Do ponto de vista do estudo, é importante que outras fontes de informações sejam utilizadas para colaborar na construção da argumentação do projeto. E, do ponto de vista técnico, isso mostra adaptabilidade e antecipação, pois o cruzamento de informações é um passo muito fundamental no seu amadurecimento enquanto Data Scientist.
-
-Porém, é preciso tomar bastante cuidado ao fazer essa junção: será avaliado o valor agregado à pesquisa, não somente as informações extras. 
-
-Um exemplo: você pode pesquisar na literatura científica artigos que falam sobre drug discovery, com informações que você julgue relevantes, e utilizar esses dados e informações na sua argumentação e no desenvolvimento do seu storytelling.
 
 * Finalmente teremos um novo README agora com as nossas alterações
 ![imagem indicando que nossas alterações foram salvas no README](https://user-images.githubusercontent.com/26041581/117192571-464d7080-adb8-11eb-9a70-2cef826ed24e.png)
