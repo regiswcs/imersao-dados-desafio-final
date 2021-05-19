@@ -52,7 +52,7 @@ Dataset _**dados_resultados.csv :**_
 
 ### Estrutura do projeto
 
-O projeto será divido em :
+O projeto está divido em :
 
 * Entendimento do Projeto
 * Coleta e Tratamento dos dados
