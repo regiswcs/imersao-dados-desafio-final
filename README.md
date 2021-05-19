@@ -26,7 +26,7 @@ Fatores que podem dar início à criação de medicamentos:
 
 ### Escopo do Projeto
 
-Este projeto tenta melhorar a previsão do MoA( Mecanismos de Ação ), que descrevem a atividade biológica de uma determinada molécula com base em sua assinatura celular, colaborando com o avanço e celeridade na descorberta de medicamentos. Em outras palavras tentaremos utilizar um algorítimo para dizer se em um experimento o MoA será ativado ou não, forncecendo ao nosso Modelo Preditivo(Algoritmo) a assinatura do exprimento(Oa dados de teste do experimento).
+Este projeto tenta melhorar a previsão do MoA( Mecanismos de Ação ), que descrevem a atividade biológica de uma determinada molécula com base em sua assinatura celular, colaborando com o avanço e celeridade na descorberta de medicamentos. Em outras palavras tentaremos utilizar um algorítimo para dizer se em um experimento o MoA será ativado ou não, forncecendo ao nosso Modelo Preditivo(Algoritmo) a assinatura do exprimento.
 
 Utilizaremos 2 Datasets fornecidos pela Alura, que estão na pasta chamada Dados. Um dataset contém informações sobre os experimentos e o outro com os resultados do MoA.
 
