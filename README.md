@@ -61,17 +61,4 @@ O projeto será divido em :
 * Comunicação dos Resultados
 
 
-* Finalmente teremos um novo README agora com as nossas alterações
-![imagem indicando que nossas alterações foram salvas no README](https://user-images.githubusercontent.com/26041581/117192571-464d7080-adb8-11eb-9a70-2cef826ed24e.png)
-Como escrever um bom README:
-
-- Insira uma imagem;
-- Coloque o nome do projeto;
-- Descreva o projeto;
-- Apresente o objetivo do projeto;
-- Evidencie as particularidades do projeto;
-- Explique sobre a estrutura dos dados;
-- Exiba os links utilizados para a conclusão do projeto
-
-
 
