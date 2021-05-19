@@ -32,13 +32,22 @@ Utilizaremos 2 Datasets fornecidos pela Alura, que estão na pasta chamada Dados
 
 ##### Datasets
 
-**_dados_experimentos_**
+ Dataset _**dados_experimentos.zip :**_
 
-**id:** São os identificadores únicos de cada experimento realizado.
 
-**tratamento:** São infomações que dizem se este experimento recebeu algum composto a ser analisado(com_droga) ou uma substância de controle(com_controle).
+*   **id:**            Contém os ids de cada experimento.
+*   **tratamento:**    Mostra se o exprimento teve adionada alguma droga ou não.
+*   **tempo:**         Tempo do experimento: 24, 48 ou 72 horas.
+*   **dose:**          Dosagem da droga neste experimento.
+*   **[g-0...g-776]:** Colunas com todos genes analisados e seus respectivos valores de expressão: g-0 até g-775.
+*   **[c-0...c-99]:**  Colunas com todas as células testadas e seus respectivos valores de viabilidade celular: c-0 até c-99.
 
-**tempo:** De quanto em quanto tempo ele foi analisado, com períodos de 24, 48 e 72 horas.
+Dataset _**dados_resultados.csv :**_
+
+
+*  **id:** Contém os ids de cada experimento.
+
+*  ***OBS:*** O restante das colunas são os Mecanismos de Ação(Moa) com a informação se foi ativo ou não para o experimento.
 
 
 ### Estrutura do projeto
